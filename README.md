@@ -1,6 +1,6 @@
 # Sara Javan
 
-**AI Consultant & Coach — Dubai**
+**AI Consultant & Coach - Dubai**
 *AI Experience Strategist · a decade in UX*
 
 I help people direct AI to do real production work. Not prompts and demos. Actual shipped things.
