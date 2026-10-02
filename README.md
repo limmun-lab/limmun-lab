@@ -1,21 +1,20 @@
 # Sara Javan
 
-**AI Consultant & Coach - Dubai**
-*AI Experience Strategist · a decade in UX*
+**Lead Product Designer, AI & Complex Systems. Dubai.**
 
-I help people direct AI to do real production work. Not prompts and demos. Actual shipped things.
+I design AI-powered products and the systems that help people make complex decisions. Not prompts and demos. Actual shipped things.
 
-A decade in strategic UX (previously Lead UX Designer at Avetta). Now running an independent practice where I build real systems by directing AI agents, and coach others to do the same.
+10+ years in strategic UX, in high-stakes work: safety, risk, compliance, clinical workflows. I write about what AI changes inside the work, and I partner with designers and builders on the part the tools cannot do: judgement, trust, and knowing when to say not yet.
 
 ---
 
 **What I'm building**
 
-🌍 [sarajavan.com](https://sarajavan.com) — my practice, writing, and work
+🌍 [sarajavan.com](https://sarajavan.com): my work, writing and case studies
 
-🛠 [Terrain](https://terrain-psi.vercel.app) — a live product I designed, built, and shipped solo by directing AI agents, end to end. [Read how it was built →](https://sarajavan.com/work/terrain)
+🛠 [Terrain](https://terrain-psi.vercel.app): a live AI risk management product I designed and shipped, working with AI agents. [Read the case study →](https://sarajavan.com/process/terrain)
 
-✍️ [Dignity by Design](https://sarajavan.substack.com) — essays on what high-stakes work does to people. First on worksites, now at desks.
+✍️ [Dignity by Design](https://sarajavan.substack.com): essays on what high-stakes work does to people. First on worksites, now at desks.
 
 ---
 
